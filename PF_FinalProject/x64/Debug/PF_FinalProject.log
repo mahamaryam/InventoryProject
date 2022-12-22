@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mahaj\source\repos\PF_FinalProject\Source.cpp(212,7): warning C4101: 'ans': unreferenced local variable
+C:\Users\mahaj\source\repos\PF_FinalProject\Source.cpp(402,7): warning C4101: 'ch': unreferenced local variable
+  PF_FinalProject.vcxproj -> C:\Users\mahaj\source\repos\PF_FinalProject\x64\Debug\PF_FinalProject.exe
