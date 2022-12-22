@@ -6,5 +6,3 @@ table   erty6   furniture   500   NONE
 keyboard   key676   machine   134   NONE
 mouse   m1234e   machine   40   NONE
 marker   ma2367   stationery   90   NONE
-0         0   
-pencil penc91 stationary 70 NONE
